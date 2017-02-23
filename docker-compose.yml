@@ -1,4 +1,4 @@
 app:
-  image: rav121/todobackend-client
+  image: rav121/todobackend-client2
   ports:
     - 3000:3000
